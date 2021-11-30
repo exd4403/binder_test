@@ -1,0 +1,7 @@
+ipywidgets
+pyforest
+pandas
+jupyter_contrib_nbextensions
+qgrid
+black
+voila
