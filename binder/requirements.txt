@@ -5,3 +5,5 @@ jupyter_contrib_nbextensions
 qgrid
 black
 voila
+bs4
+requests
